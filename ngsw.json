@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678682782702,
+  "timestamp": 1678683664230,
   "index": "/app-todo-list/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/app-todo-list/favicon.ico",
         "/app-todo-list/index.html",
-        "/app-todo-list/main.799c03588d599b17.js",
+        "/app-todo-list/main.0a269fde5a63de18.js",
         "/app-todo-list/manifest.webmanifest",
         "/app-todo-list/polyfills.6d09853bdccb86de.js",
         "/app-todo-list/runtime.66f95839631092cc.js",
@@ -106,8 +106,8 @@
     "/app-todo-list/assets/images/bg-task.png": "f318a6c9ab8d5f69ef5509233d84e0e2e50de780",
     "/app-todo-list/bg-task.6c1b0ad1f9589215.png": "f318a6c9ab8d5f69ef5509233d84e0e2e50de780",
     "/app-todo-list/favicon.ico": "f318a6c9ab8d5f69ef5509233d84e0e2e50de780",
-    "/app-todo-list/index.html": "8a1b1d0fe4b641c6ca21aead0612ef7a577cca6a",
-    "/app-todo-list/main.799c03588d599b17.js": "c8314fe030a2a3046a2e90dc0bb27010fb841f18",
+    "/app-todo-list/index.html": "e3966be11b193dac2bba2388206f7d366e36a5a3",
+    "/app-todo-list/main.0a269fde5a63de18.js": "a43a97b596fc48cb9505a01ec2160f9561d03a11",
     "/app-todo-list/manifest.webmanifest": "3aa825ba03d4eab22e3ff0483ef1308cdb57c1c5",
     "/app-todo-list/polyfills.6d09853bdccb86de.js": "cfa07cfd6c98440ddd94fc848060da5fd7f8ab23",
     "/app-todo-list/runtime.66f95839631092cc.js": "f59ba221f48ac03afcb5710d43d99b113e8a90be",
