@@ -20,4 +20,11 @@
     </ul>
 </section>
 <app-todo-input-additems (emitTaskListItem)="setTaskListEmit($event)"/>
-<app-todo-button-delete-all (click)="deleteTaskListItem"  *ngIf="taskList.length"/>
+<app-todo-button-delete-all (click)="deleteTaskListAll()"  *ngIf="taskList.length"/>
+<app-modal-confirmation
+  *ngIf="confirmModal"
+  [title]="modalTitle"
+  [message]="modalMessage"
+  (confirm)="confirmModalAction!(); closeModal()"
+  (cancel)="closeModal()"
+/>
