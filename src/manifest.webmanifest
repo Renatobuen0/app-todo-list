@@ -6,6 +6,13 @@
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
+  "splash_pages": [
+    {
+      "src": "android/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
 
   "icons": [
     {
