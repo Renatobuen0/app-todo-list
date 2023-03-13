@@ -1,0 +1,135 @@
+{
+  "configVersion": 1,
+  "timestamp": 1678680630835,
+  "index": "/app-todo-list/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/app-todo-list/favicon.ico",
+        "/app-todo-list/index.html",
+        "/app-todo-list/main.799c03588d599b17.js",
+        "/app-todo-list/manifest.webmanifest",
+        "/app-todo-list/polyfills.6d09853bdccb86de.js",
+        "/app-todo-list/runtime.66f95839631092cc.js",
+        "/app-todo-list/styles.31e4bbe9e4f4cc74.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/app-todo-list/assets/icons/android/android-launchericon-144-144.png",
+        "/app-todo-list/assets/icons/android/android-launchericon-192-192.png",
+        "/app-todo-list/assets/icons/android/android-launchericon-48-48.png",
+        "/app-todo-list/assets/icons/android/android-launchericon-512-512.png",
+        "/app-todo-list/assets/icons/android/android-launchericon-72-72.png",
+        "/app-todo-list/assets/icons/android/android-launchericon-96-96.png",
+        "/app-todo-list/assets/icons/icon-trash.svg",
+        "/app-todo-list/assets/icons/ios/100.png",
+        "/app-todo-list/assets/icons/ios/1024.png",
+        "/app-todo-list/assets/icons/ios/114.png",
+        "/app-todo-list/assets/icons/ios/120.png",
+        "/app-todo-list/assets/icons/ios/128.png",
+        "/app-todo-list/assets/icons/ios/144.png",
+        "/app-todo-list/assets/icons/ios/152.png",
+        "/app-todo-list/assets/icons/ios/16.png",
+        "/app-todo-list/assets/icons/ios/167.png",
+        "/app-todo-list/assets/icons/ios/180.png",
+        "/app-todo-list/assets/icons/ios/192.png",
+        "/app-todo-list/assets/icons/ios/20.png",
+        "/app-todo-list/assets/icons/ios/256.png",
+        "/app-todo-list/assets/icons/ios/29.png",
+        "/app-todo-list/assets/icons/ios/32.png",
+        "/app-todo-list/assets/icons/ios/40.png",
+        "/app-todo-list/assets/icons/ios/50.png",
+        "/app-todo-list/assets/icons/ios/512.png",
+        "/app-todo-list/assets/icons/ios/57.png",
+        "/app-todo-list/assets/icons/ios/58.png",
+        "/app-todo-list/assets/icons/ios/60.png",
+        "/app-todo-list/assets/icons/ios/64.png",
+        "/app-todo-list/assets/icons/ios/72.png",
+        "/app-todo-list/assets/icons/ios/76.png",
+        "/app-todo-list/assets/icons/ios/80.png",
+        "/app-todo-list/assets/icons/ios/87.png",
+        "/app-todo-list/assets/images/bg-task.png",
+        "/app-todo-list/bg-task.6c1b0ad1f9589215.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/app-todo-list/assets/icons/android/android-launchericon-144-144.png": "3a836ebd5ec3b8994044764d60cffc50d8f07403",
+    "/app-todo-list/assets/icons/android/android-launchericon-192-192.png": "0025f440cdb6231e72d51d0f317308050dad5796",
+    "/app-todo-list/assets/icons/android/android-launchericon-48-48.png": "839eff0f660083665f2a05c7deed7df8729e063a",
+    "/app-todo-list/assets/icons/android/android-launchericon-512-512.png": "c8d3f4d7e72582115022ffe8f53b626476ae9ab9",
+    "/app-todo-list/assets/icons/android/android-launchericon-72-72.png": "f9b07a81556051e7e1b08cd103eb83aae43eb6b5",
+    "/app-todo-list/assets/icons/android/android-launchericon-96-96.png": "e54c89c3c05b9f42d99c591d89a568817e38a818",
+    "/app-todo-list/assets/icons/icon-trash.svg": "f7c0e49c751625c73e0361c64a0ed7ec29d14ae6",
+    "/app-todo-list/assets/icons/ios/100.png": "f41b312ba9b6259306174e6d0578ba7848dff665",
+    "/app-todo-list/assets/icons/ios/1024.png": "fa18a69221f8bb67780f3aec83dac54da1ec0a75",
+    "/app-todo-list/assets/icons/ios/114.png": "6f67a28d90d6afa51e13c75d299d73cc025845d7",
+    "/app-todo-list/assets/icons/ios/120.png": "faccaa11248a5a7708122d127c7dd0bb1d3cb872",
+    "/app-todo-list/assets/icons/ios/128.png": "2ea44788adb58aa7f77918fc6758b52be3e1216b",
+    "/app-todo-list/assets/icons/ios/144.png": "3a836ebd5ec3b8994044764d60cffc50d8f07403",
+    "/app-todo-list/assets/icons/ios/152.png": "6fb3b9f36bde6153f3085c12392b13406d1a4a40",
+    "/app-todo-list/assets/icons/ios/16.png": "70bbabe80d7b0ba404657ae1aaea4435029dd24f",
+    "/app-todo-list/assets/icons/ios/167.png": "9f777c3364392fdb01440f515a310664e85faa63",
+    "/app-todo-list/assets/icons/ios/180.png": "d51648daeeac2beeac80873330d839b1361480f6",
+    "/app-todo-list/assets/icons/ios/192.png": "0025f440cdb6231e72d51d0f317308050dad5796",
+    "/app-todo-list/assets/icons/ios/20.png": "ec311b1035623b126ffb5b9338bed4fdf6d3ddd6",
+    "/app-todo-list/assets/icons/ios/256.png": "b0ec3dbd25acd7cd74a20679d0357ce313256322",
+    "/app-todo-list/assets/icons/ios/29.png": "ee63726ed2a3914eb03a053ad29456e1ea0adea7",
+    "/app-todo-list/assets/icons/ios/32.png": "632a3c022ab18c4b66002364cf57de4c3770ff68",
+    "/app-todo-list/assets/icons/ios/40.png": "d1292974602e7153fe15ef58b6624b74b1d23c94",
+    "/app-todo-list/assets/icons/ios/50.png": "f6554a9ecdf4a2a5f8aae38153f59a006117f57f",
+    "/app-todo-list/assets/icons/ios/512.png": "c8d3f4d7e72582115022ffe8f53b626476ae9ab9",
+    "/app-todo-list/assets/icons/ios/57.png": "4ba29704af3aef1f42d78c285c15c094fb739afe",
+    "/app-todo-list/assets/icons/ios/58.png": "9658199533571b7b6b98964d8059c5ed2057d8e4",
+    "/app-todo-list/assets/icons/ios/60.png": "610d3f7762b0679a5c8dbb11d9b0f4a9a5462af4",
+    "/app-todo-list/assets/icons/ios/64.png": "4b5ef7d70ab35a247d2a5b58196419584c52ad24",
+    "/app-todo-list/assets/icons/ios/72.png": "f9b07a81556051e7e1b08cd103eb83aae43eb6b5",
+    "/app-todo-list/assets/icons/ios/76.png": "90d939502dc5f847a4e01549ed5c01db65105b75",
+    "/app-todo-list/assets/icons/ios/80.png": "dfd52d91502b9f5a594dce31670cb40211f63814",
+    "/app-todo-list/assets/icons/ios/87.png": "347707f7eae579e7883baceb34cb73ba97deb6c5",
+    "/app-todo-list/assets/images/bg-task.png": "f318a6c9ab8d5f69ef5509233d84e0e2e50de780",
+    "/app-todo-list/bg-task.6c1b0ad1f9589215.png": "f318a6c9ab8d5f69ef5509233d84e0e2e50de780",
+    "/app-todo-list/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/app-todo-list/index.html": "8ec6147d2eb14f1423e9654f9ebf598c14e0409f",
+    "/app-todo-list/main.799c03588d599b17.js": "c8314fe030a2a3046a2e90dc0bb27010fb841f18",
+    "/app-todo-list/manifest.webmanifest": "cbc0dbf2e172380e0ee9abd3faff0f5915e9bc8a",
+    "/app-todo-list/polyfills.6d09853bdccb86de.js": "cfa07cfd6c98440ddd94fc848060da5fd7f8ab23",
+    "/app-todo-list/runtime.66f95839631092cc.js": "f59ba221f48ac03afcb5710d43d99b113e8a90be",
+    "/app-todo-list/styles.31e4bbe9e4f4cc74.css": "9af4cfc80f37e98116d5ccb674bd4d746156425f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
