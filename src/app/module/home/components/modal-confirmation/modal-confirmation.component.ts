@@ -10,5 +10,5 @@ export class ModalConfirmationComponent {
   @Input() message: string = '';
   @Output() confirm = new EventEmitter();
   @Output() cancel = new EventEmitter();
-  confirmModal: boolean = true;
+  modalVisible: boolean = true;
 }

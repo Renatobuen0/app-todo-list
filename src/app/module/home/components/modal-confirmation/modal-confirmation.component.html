@@ -1,4 +1,4 @@
-<div class="modal" [class.show]="confirmModal">
+<div class="modal" [class.show]="modalVisible">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -23,7 +23,7 @@
           type="button"
           class="btn btn-danger"
           (click)="confirm.emit()"
-          *ngIf="confirmModal"
+          *ngIf="modalVisible"
         >
           Deletar
         </button>
